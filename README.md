@@ -45,8 +45,15 @@ O projeto está organizado no pacote `lista04.exercicio01` e contém as seguinte
 ## 📄 Exemplo de Saída
 
 Ao executar o `Aplicativo.java`, você verá uma saída similar a esta no console:Funcionário: Gabriela CPF: 12345678998 Carga Horária: 30 Salário: 800,00
-Funcionário: Rafaela CPF: 12345678998 Horas trabalhadas: 40.0 Valor horas: 80.0 Salário: 3200,00
-Funcionário: Isabela CPF: 12345678910 Benefícios: 150.0 Salário: 1950,00
+Funcionário: Rafaela 
+CPF: 12345678998 
+Horas trabalhadas: 40.0 
+Valor horas: 80.0 
+Salário: 3200,00
+Funcionário: Isabela 
+CPF: 12345678910 
+Benefícios: 150.0 
+Salário: 1950,00
 Funcionário: Manuela
 CPF: 12345678998
 Carga Horária: 20
